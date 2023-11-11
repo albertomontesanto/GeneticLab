@@ -1,4 +1,5 @@
-baseurl = "https://hallettlab.netlify.com/"
+#baseurl = "https://hallettlab.netlify.com/"
+baseurl = "https://unical-geneticlab.netlify.app/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Genetic Lab"
