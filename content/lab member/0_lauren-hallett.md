@@ -14,13 +14,9 @@ date: 2018-02-20
 <!--more-->
 
 ### Education
-2015 University of California, Berkeley _PhD_ in Environmental Science  
-2010 University of Western Australia _MS_ in Natural Resources  
-2008 Yale University _BS_ in Biology
-
 2008 University of Calabria II level University Master Degree in Computational and Supercomputing Sciences 
-2007 University of Calabria PhD in Molecular Bio-pathology
-2003 University of Calabria MSc in Biological Sciences 
+2007 University of Calabria _PhD_ in Molecular Bio-pathology
+2003 University of Calabria _MS_ in Biological Sciences 
 
 
 ### Research Topics
@@ -34,3 +30,5 @@ I am a professor of genetics, currently working to the analysis of the role of h
 
 ### Contact
 alberto.montesanto@unical.it
+
+
