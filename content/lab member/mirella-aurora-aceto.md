@@ -1,5 +1,5 @@
 ---
-title: Leslie Forero
+title: Mirella Aurora Aceto
 subtitle: Guest Postdoctoral Researcher
 date: 2017-04-18
 ---
@@ -27,4 +27,4 @@ I am interested in how interactions between plants and soil biota influence plan
 I am a postdoctoral researcher with Emily Farrer at Tulane University, and you might see me from time to time in the Hallett lab because Lauren is a co-PI on my project. I love plant-soil feedbacks, skiing, knitting, and hanging out with my cat.
 
 ### Contact
-leslieeforero@gmail.com
+mirellaaurora.aceto@unical.it

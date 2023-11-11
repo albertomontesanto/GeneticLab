@@ -19,7 +19,11 @@ date: '2017-04-20'
 2014 University of Minnesota _BS_ in Applied Plant Science  
 
 ### Research Topics
-I am an agroecologist and weed scientist who is interested in weed dispersal, coexistence, agrobiodiversity, and the ecological principles of integrated pest management. I use cover crops as a tool for understanding complex plant interactions within cropping systems, and I currently work in Oregon hazelnut systems. I am also interested in the political ecology of agricultural science, pesticides, and land management decision-making.  
+Ha conseguito la Laurea Magistrale in Scienze Biologiche presso l’Università della Calabria con votazione 110 e lode con una tesi dal titolo "Variabilità genetica ed epigenetica per la predizione del colore dell’occhio: ruolo del gene HERC2". 
+Dal 2019 frequenta la scuola di Dottorato di Ricerca in Scienze della Vita (XXXV ciclo) nella medesima Università.
+
+
+
 
 ### Contact
 ersilia.paparazzo@unical.it
