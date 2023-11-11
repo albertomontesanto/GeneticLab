@@ -1,5 +1,5 @@
 ---
-title: Steve Haring
+title: Ersilia Paparazzo
 subtitle: Postdoc
 date: '2017-04-20'
 
@@ -22,6 +22,5 @@ date: '2017-04-20'
 I am an agroecologist and weed scientist who is interested in weed dispersal, coexistence, agrobiodiversity, and the ecological principles of integrated pest management. I use cover crops as a tool for understanding complex plant interactions within cropping systems, and I currently work in Oregon hazelnut systems. I am also interested in the political ecology of agricultural science, pesticides, and land management decision-making.  
 
 ### Contact
-sharing@uoregon.edu  
-[steveharing.com](steveharing.com)  
+ersilia.paparazzo@unical.it
 [Google scholar](scholar.google.com/citations?user=SW0PIxYAAAAJ&hl)

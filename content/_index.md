@@ -1,2 +1,2 @@
 ## Welcome!
-We are community ecologists in the Environmental Studies Program and the Biology Department at the University of Oregon. Our goal is to produce “usable” science to improve ecosystem management and restoration. We use a combination of long-term data analysis, population modeling and field experiments to this end. Our work spans a variety of systems, including working rangelands, serpentine grasslands, oak woodlands, alpine and rivers. 
+Il *laboratorio di Genetica Umana Applicata* è un laboratorio ad elevata specializzazione nel quale sono condotte  indagini molecolari per lo studio delle basi genetiche ed epigenetiche di tratti complessi e legati alla longevità umana e per lo sviluppo di metodologie avanzate in ambito forense (Forensic DNA Phenotyping).

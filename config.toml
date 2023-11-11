@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 paginate = 22
 
 [Params]
-  subtitle = "Restoration and community ecology"
+  subtitle = "Genetics and Epigenetics of Human Ageing and Longevity"
 #  logo = "img/avatar-icon.png"
   favicon = "img/flower_2Xt_icon.ico"
   dateFormat = "January 2, 2006"
