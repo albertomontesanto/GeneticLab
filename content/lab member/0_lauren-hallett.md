@@ -10,57 +10,20 @@ date: 2018-02-20
   {{< figure thumb="_tn" src="/img/headshots/avatar.jpg" alt="Alberto Montesanto">}}
 {{< /gallery >}}
 
-education:
-  courses:
-  - course: II level University Master Degree in Computational and Supercomputing Sciences 
-    institution: University of Calabria
-    year: 2008
-  - course: PhD in Molecular Bio-pathology 
-    institution: University of Calabria
-    year: 2007
-  - course: MSc in Biological Sciences 
-    institution: University of Calabria
-    year: 2003
+
+<!--more-->
+
+### Education
+2015 University of California, Berkeley _PhD_ in Environmental Science  
+2010 University of Western Australia _MS_ in Natural Resources  
+2008 Yale University _BS_ in Biology
+
+### Research Topics
+Plant community ecology, restoration ecology, global change, biodiversity conservation
 
 
+### Research Interests
+My goal is to produce "usable" science to improve ecosystem management. I use a combination of long-term data analysis, population modeling and field experiments to this end. My work spans a variety of systems, including working rangelands, serpentine grasslands, woodlands and alpine.
 
-    
-email: "alberto.montesanto@unical.it"
-highlight_name: false
-
-interests:
-- Forensic Genetics
-- Epigenetics of human ageing
-- Genetics of human ageing
-- Data Analysis and visualization
-    
-organizations:
-- name: University of Calabria
-  url: https://www.unical.it/
-  
-role: Professor of Genetics
-
-social:
-- icon: twitter
-  icon_pack: fab
-  link: #https://twitter.com/apreshill
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-9563-2216
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=B8kuAMYAAAAJ
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/alberto.montesanto
-
-
- 
----
-
-I am a professor of genetics, currently working to the analysis of the role of human nuclear and mitochondrial DNA (epi)genetic variations in human aging and longevity. My research interest is also focused on the development of novel analytical techniques and methodologies to solve current challenges in forensic science (Forensic DNA Phenotyping).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alberto.montesanto%40gmail.com&currency_code=EUR)
+### Contact
+hallett@uoregon.edu
