@@ -7,55 +7,30 @@ date: 2018-02-20
 
 
 {{< gallery >}}
-  {{< figure thumb="_tn" src="/img/headshots/avatar.jpg" alt="Alberto Montesanto">}}
+  {{< figure thumb="_tn" src="/img/headshots/avatar.jpg" alt="Alberto Montesanto Hallett">}}
 {{< /gallery >}}
 
-education:
-  courses:
-  - course: II level University Master Degree in Computational and Supercomputing Sciences 
-    institution: University of Calabria
-    year: 2008
-  - course: PhD in Molecular Bio-pathology 
-    institution: University of Calabria
-    year: 2007
-  - course: MSc in Biological Sciences 
-    institution: University of Calabria
-    year: 2003
+
+<!--more-->
+
+### Education
+2015 University of California, Berkeley _PhD_ in Environmental Science  
+2010 University of Western Australia _MS_ in Natural Resources  
+2008 Yale University _BS_ in Biology
+
+2008 University of Calabria II level University Master Degree in Computational and Supercomputing Sciences 
+2007 University of Calabria PhD in Molecular Bio-pathology
+2003 University of Calabria MSc in Biological Sciences 
 
 
-
-    
-email: "alberto.montesanto@unical.it"
-highlight_name: false
-
-interests:
+### Research Topics
 - Forensic Genetics
 - Epigenetics of human ageing
 - Genetics of human ageing
 - Data Analysis and visualization
-    
-organizations:
-- name: University of Calabria
-  url: https://www.unical.it/
-  
-role: Professor of Genetics
 
-social:
-- icon: twitter
-  icon_pack: fab
-  link: #https://twitter.com/apreshill
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-9563-2216
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=B8kuAMYAAAAJ
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/alberto.montesanto
-
-
- 
-
+### Research Interests
 I am a professor of genetics, currently working to the analysis of the role of human nuclear and mitochondrial DNA (epi)genetic variations in human aging and longevity. My research interest is also focused on the development of novel analytical techniques and methodologies to solve current challenges in forensic science (Forensic DNA Phenotyping).
 
+### Contact
+alberto.montesanto@unical.it
