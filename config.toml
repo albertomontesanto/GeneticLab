@@ -96,7 +96,7 @@ paginate = 22
     
  [[menu.main]]
     name = "Publications"
-    url = "publications"
+    url = "publication"
     weight = 4
     
     [[menu.main]]
