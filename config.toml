@@ -45,12 +45,11 @@ paginate = 22
 #  position = "center top"
 
 [Author]
-  name = "Lauren Hallett"
-  website = "hallettlab.github.io"
-  email = "hallett@uoregon.edu"
-  github = "laurenmh"
+  name = "Alberto Montesanto"
+  website = "albertomontesanto.github.io"
+  email = "alberto.montesanto@unical.it"
+  github = "albertomontesanto"
 #  gitlab = "hallettlab"
-  twitter = "lmhallett"
 
 
  [[menu.main]]
@@ -89,14 +88,14 @@ paginate = 22
 
 
 [[menu.main]]
-    name = "Teaching"
+    name = "Corsi"
     url = "teaching"
     weight = 3
  
     
  [[menu.main]]
-    name = "Publications"
-    url = "publication"
+    name = "Pubblicazioni"
+    url = "/publications/"
     weight = 4
     
     [[menu.main]]
@@ -105,7 +104,7 @@ paginate = 22
     weight = 7
     
   [[menu.main]]
-    name = "Contact"
+    name = "Contatti"
     url = "contact"
     weight = 8
     
