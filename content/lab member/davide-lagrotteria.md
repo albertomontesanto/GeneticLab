@@ -1,6 +1,6 @@
 ---
 title: "Davide Lagrotteria"
-subtitle: PhD Candidate
+subtitle: Researcher fellow
 date: '2017-04-15'
 ---
 
